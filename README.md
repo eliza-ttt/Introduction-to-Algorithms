@@ -3,9 +3,8 @@
 ## Introduction and Foundations
 Introduction to Algorithms
 
-![img1]()<br>
+![img1](https://github.com/eliza-ttt/Introduction-to-Algorithms/blob/main/1144.png?raw=true)<br>
 
-![img1]()<br>
 
 ## Introduction and Foundations
 Introduction to Algorithms<br>
@@ -17,9 +16,8 @@ Introduction to Algorithms<br>
 - Algorithm Efficiency<br>
 
 ## Time Complexity
-![img1]()<br>
+![img1](https://github.com/eliza-ttt/Introduction-to-Algorithms/blob/main/1414.png?raw=true)<br>
 
-![img1]()<br>
 
 - Measurement<br>
 - Asymptotic complexity<br>
@@ -29,9 +27,7 @@ Introduction to Algorithms<br>
 
 ## Space Complexity
 
-![img1]()<br>
-
-![img1]()<br>
+![img1](https://github.com/eliza-ttt/Introduction-to-Algorithms/blob/main/1133.png?raw=true)<br>
 
 - Measurment<br>
 - What is Space complexity?<br>
@@ -40,7 +36,7 @@ Introduction to Algorithms<br>
 - Summary<br>
 
 ## Introduction to Data Structures<br>
-![img1]()<br>
+![img1](https://github.com/eliza-ttt/Introduction-to-Algorithms/blob/main/1313.png?raw=true)<br>
 
 
 - What is a Data Structure?<br>
@@ -51,7 +47,7 @@ Introduction to Algorithms<br>
 - Applications of Data Structures<br>
 
 ## Arrays and Lists<br>
-![img1]()<br>
+![img1](https://github.com/eliza-ttt/Introduction-to-Algorithms/blob/main/1212.png?raw=true)<br>
 
 
 - What is an Array?<br>
@@ -63,7 +59,7 @@ Introduction to Algorithms<br>
 - Arrays and Lists in Comparison<br>
 
 ## Sorting Algorithms<br>
-![img1]()<br>
+![img1](https://github.com/eliza-ttt/Introduction-to-Algorithms/blob/main/1122.png?raw=true)<br>
 
 
 - Bubble Sort Idea<br>
@@ -71,6 +67,8 @@ Introduction to Algorithms<br>
 - Bubble Sort Visualisation<br>
 - Selection Sort Algorithm<br>
 - Insertion Sort Algorithm<br>
+
+## Practical material is available on the drive. It is estimated from 0 to 100 for each task, and deadlines are also taken into account.<br>
 
 
 Course on Google Classroom!
